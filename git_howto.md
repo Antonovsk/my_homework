@@ -10,7 +10,11 @@ git init
 git add
 ```
 
+Добавить содержимое файла в дерево, с описанием изминений:
+```sh
 git commit -m "Message"
+```
+
 git log
 git log --oneline
 git checkout

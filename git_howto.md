@@ -20,5 +20,9 @@ git commit -m "Message"
 git log 
 ```
 
+Показывать журналы фиксации комитов с коротким адресом:
+```sh
 git log --oneline
+```
+
 git checkout

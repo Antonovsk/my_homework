@@ -25,4 +25,7 @@ git log
 git log --oneline
 ```
 
+Переключение между комитами:
+```sh
 git checkout
+```

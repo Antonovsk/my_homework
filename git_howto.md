@@ -37,7 +37,12 @@ git checkout <cod commit>
 git checkout <name ветки>
 ```
 
-Вывот веток репозитория:
++ Вывот веток репозитория:
 ```sh
 git branch 
+```
+
++ Слияния веток:
+```sh
+git merge 
 ```

@@ -29,3 +29,8 @@ git log --oneline
 ```sh
 git checkout
 ```
+
+Вывот веток репозитория:
+```sh
+git branch 
+```

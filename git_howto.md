@@ -30,3 +30,9 @@ git log --oneline
 git checkout <cod commit>
 ```
 
+### Работа с ветками репозитория
+
++ Переключение между ветками:
+```sh
+git checkout <name ветки>
+```

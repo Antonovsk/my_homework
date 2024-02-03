@@ -36,3 +36,8 @@ git checkout <cod commit>
 ```sh
 git checkout <name ветки>
 ```
+
+Вывот веток репозитория:
+```sh
+git branch 
+```

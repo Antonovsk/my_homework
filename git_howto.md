@@ -34,3 +34,8 @@ git checkout
 ```sh
 git branch 
 ```
+
+Отобразить дерево всех веток репозитория:
+```sh
+git log --oneline --graph 
+```

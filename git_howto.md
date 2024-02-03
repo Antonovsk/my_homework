@@ -46,3 +46,8 @@ git branch
 ```sh
 git merge 
 ```
+
++ Удалить ветку:
+```sh
+git branch -d <name ветки>
+```

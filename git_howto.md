@@ -42,6 +42,11 @@ git checkout <name ветки>
 git branch 
 ```
 
++ Переиминовать ветку:
+```sh
+git branch -M <name ветки>
+```
+
 + Отобразить дерево всех веток репозитория:
 ```sh
 git log --oneline --graph 
